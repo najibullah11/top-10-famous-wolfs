@@ -892,7 +892,7 @@ class _myapp7State extends State<myapp7> {
                         color: Color.fromRGBO(0, 15, 226, 0.836),
                         fontWeight: FontWeight.bold,
                         fontSize: 20,
-                        backgroundColor: Color.fromARGB(137, 205, 152, 240)),
+                        backgroundColor: Color.fromARGB(130, 205, 152, 240)),
                   ),
                 ),
               ),
