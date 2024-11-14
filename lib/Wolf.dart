@@ -46,7 +46,7 @@ class MyApp0 extends StatelessWidget {
             Image(
               image: AssetImage('images/kk.jpg'),
               fit: BoxFit.cover,
-              height: 490,
+              height: 488,
               width: double.infinity,
             ),
             Text(
