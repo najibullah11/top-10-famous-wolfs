@@ -658,7 +658,7 @@ class _myapp4State extends State<myapp4> {
                               نظام استفاده می شوند و به نودرت پیدا می شود
                               
                                ''',
-            style: TextStyle(fontWeight: FontWeight.bold),
+            style: TextStyle(fontWeight: FontWeight.bold,color: Colors.black),
           ),
           GestureDetector(
             onTap: () {
