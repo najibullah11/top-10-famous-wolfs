@@ -583,7 +583,7 @@ class _myapp2State extends State<myapp2> {
               });
             },
             child: Card(
-              color: Color.fromARGB(137, 205, 152, 240),
+              color: Color.fromARGB(130, 205, 152, 240),
               child: Container(
                 height: 50,
                 width: 200,
