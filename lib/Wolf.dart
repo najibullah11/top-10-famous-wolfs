@@ -1022,7 +1022,7 @@ class _myapp9State extends State<myapp9> {
                   child: Text(
                     "اطلاعات بیشتر",
                     style: TextStyle(
-                        color: Color.fromRGBO(0, 15, 226, 0.836),
+                        color: Color.fromRGBO(0, 15, 229, 0.836),
                         fontWeight: FontWeight.bold,
                         fontSize: 20,
                         backgroundColor: Color.fromARGB(137, 205, 152, 240)),
