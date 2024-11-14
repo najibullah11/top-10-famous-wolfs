@@ -601,27 +601,7 @@ class _myapp2State extends State<myapp2> {
             ),
           ),
 
-          //   color: Color.fromARGB(137, 205, 152, 240),
-          //   child: GestureDetector(
-          //     onTap: () {
-          //       ooo();
-          //     },
-          //     child: Container(
-          //       height: 50,
-          //       width: 200,
-          //       child: Center(
-          //         child: Text(
-          //           "اطلاعات بیشتر",
-          //           style: TextStyle(
-          //               color: Color.fromRGBO(0, 15, 226, 0.836),
-          //               fontWeight: FontWeight.bold,
-          //               fontSize: 20,
-          //               backgroundColor: Color.fromARGB(137, 205, 152, 240)),
-          //         ),
-          //       ),
-          //     ),
-          //   ),
-          // ),
+        
         ],
       ),
     );
