@@ -519,7 +519,7 @@ class _myapp1State extends State<myapp1> {
                 "در باره برنامه",
                 style: TextStyle(
                     fontWeight: FontWeight.bold,
-                    fontSize: 20,
+                    fontSize: 22,
                     color: Color.fromARGB(255, 252, 5, 5)),
               ),
             ),
