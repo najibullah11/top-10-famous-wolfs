@@ -646,7 +646,7 @@ class _myapp4State extends State<myapp4> {
             'images/2.jpg',
             fit: BoxFit.cover,
             width: double.infinity,
-            height: 600,
+            height: 601,
           ),
           Text(
             '''            گرگ های ژرمن به عنوان هوشیار ترین گرگ های جهان شناخته شده است 
