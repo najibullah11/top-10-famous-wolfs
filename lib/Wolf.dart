@@ -638,7 +638,7 @@ class _myapp4State extends State<myapp4> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: const Color.fromARGB(221, 53, 52, 52),
+        backgroundColor: Color.fromARGB(221, 53, 52, 52),
       ),
       body: ListView(
         children: [
