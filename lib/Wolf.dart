@@ -134,7 +134,7 @@ class _myappState extends State<myapp> {
                 'Coding .Wolf',
                 style: TextStyle(
                     color: Colors.white,
-                    fontSize: 20,
+                    fontSize: 21,
                     fontWeight: FontWeight.w900),
               ),
               SizedBox(
