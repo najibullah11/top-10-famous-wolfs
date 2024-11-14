@@ -671,7 +671,7 @@ class _myapp4State extends State<myapp4> {
               color: Color.fromARGB(137, 205, 152, 240),
               child: Container(
                 height: 50,
-                width: 200,
+                width: 201,
                 child: Center(
                   child: Text(
                     "اطلاعات بیشتر",
