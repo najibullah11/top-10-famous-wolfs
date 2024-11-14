@@ -55,7 +55,7 @@ class MyApp0 extends StatelessWidget {
                   color: Colors.red, fontSize: 20, fontWeight: FontWeight.bold),
             ),
             SizedBox(
-              height: 6,
+              height: 5,
             ),
             Center(
               child: ElevatedButton(
